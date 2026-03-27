@@ -10,7 +10,7 @@ Antes de executar o script, leia as instruções no painel lateral esquerdo e no
 3. **Papel (Role) do BigQuery** (Copie o texto exato do laboratório, ex: *roles/bigquery.dataOwner* ou *roles/bigquery.admin*)
 4. **Papel (Role) do Cloud Storage** (Copie o texto exato do laboratório, ex: *roles/storage.admin*)
 
-## ☁️ Run in Cloud Shell:
+## ☁️ Como executar no Cloud Shell:
 
 ```bash
 curl -LO https://raw.githubusercontent.com/Philippe-C-S-Brito/Resolucao_Desafio_GSP329_Google_Cloud/main/ml_desafio.sh
